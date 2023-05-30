@@ -19,3 +19,18 @@ Here some gitpod prerequisites:
 >  **Note**
 >  
 > If you didn't install the gitpod browser extension, visit your [Gitpod Workspaces](https://gitpod.io/workspaces) and click on the green button to create a new workspace by providing the URL of this repository.
+
+## Local Devcontainer usage (WIP)
+Requirements:
+
+- Docker
+- Vs code devcontainer extension
+  
+To use with devcontainer, open tis repository on vscode. Code will see the configuration files and will ask you to open this project in a devcontainer, select yes
+
+    ctr+shift+p
+and 
+
+    rebuild and reopen in container
+
+*do not configure*, instead go to  'file - open folder' and navigate directory of interest and
