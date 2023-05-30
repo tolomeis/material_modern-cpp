@@ -33,4 +33,4 @@ and
 
     rebuild and reopen in container
 
-*do not configure*, instead go to  'file - open folder' and navigate directory of interest and
+*do not configure*, instead go to  'file - open folder' and open the directory of interest.
